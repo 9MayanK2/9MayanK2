@@ -1,18 +1,18 @@
-## Hi there 👋
+## Hi there 👋 , My name is Mayank Trivedi
 
-🎓 Computer Science Graduate (2025)
-💻 Aspiring Full Stack Developer passionate about creating impactful web applications
-🚀 Skilled in MERN Stack (MongoDB, Express.js, React.js, Node.js) and continuously learning new technologies
+- 🎓 Computer Science Graduate (2025)
+- 💻 Aspiring Full Stack Developer passionate about creating impactful web applications
+- 🚀 Skilled in MERN Stack (MongoDB, Express.js, React.js, Node.js) and continuously learning new technologies
 
-##🔧 Tech Stack
+## 🔧 Tech Stack
 
-#Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
 
-#Backend: Node.js, Express.js
+- Backend: Node.js, Express.js
 
-#Database: MongoDB, MySQL(basics)
+- Database: MongoDB, MySQL(basics)
 
-#Tools & Others: Git, GitHub, Postman, REST APIs,Redux etc
+- Tools & Others: Git, GitHub, Postman, REST APIs,Redux etc
 
 📈 What I'm Working On
 
