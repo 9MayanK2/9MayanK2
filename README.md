@@ -26,7 +26,7 @@
 
 - 💼 LinkedIn - (https://www.linkedin.com/in/mayank-trivedi-5b3ba2237/)
 
-- 🌐 Portfolio - ()
+- 🌐 Portfolio - (https://mayank-trivedi-portfolio.onrender.com/)
 
 - 📧 Email: (trivedimayank92@gmail.com)
 
