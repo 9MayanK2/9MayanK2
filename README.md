@@ -14,21 +14,21 @@
 
 - Tools & Others: Git, GitHub, Postman, REST APIs,Redux etc
 
-📈 What I'm Working On
+## 📈 What I'm Working On
 
-🌱 Building real-world full-stack projects with authentication and secure APIs
+- 🌱 Building real-world full-stack projects with authentication and secure APIs
 
-🔍 Exploring cloud deployment and scalable backend systems
+- 🔍 Exploring cloud deployment and scalable backend systems
 
-🤝 Open to collaborations on web development projects
+- 🤝 Open to collaborations on web development projects
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-💼 LinkedIn
+- 💼 LinkedIn - (https://www.linkedin.com/in/mayank-trivedi-5b3ba2237/)
 
-🌐 Portfolio
+- 🌐 Portfolio - ()
 
-📧 Email: yourmail@example.com
+- 📧 Email: (trivedimayank92@gmail.com)
 
 <!--
 **9MayanK2/9MayanK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
