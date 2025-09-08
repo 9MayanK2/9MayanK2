@@ -1,4 +1,4 @@
-<img width="1536" height="864" alt="linkedinnewBanner" src="https://github.com/user-attachments/assets/3292452c-6b3d-44e4-9afd-952630ced47a" />
+<img width="1536" height="700" alt="linkedinnewBanner" src="https://github.com/user-attachments/assets/3292452c-6b3d-44e4-9afd-952630ced47a" />
 
 
 ## Hi there 👋 , My name is Mayank Trivedi
