@@ -1,5 +1,35 @@
 ## Hi there 👋
 
+🎓 Computer Science Graduate (2025)
+💻 Aspiring Full Stack Developer passionate about creating impactful web applications
+🚀 Skilled in MERN Stack (MongoDB, Express.js, React.js, Node.js) and continuously learning new technologies
+
+🔧 Tech Stack
+
+Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB, MySQL (basics)
+
+Tools & Others: Git, GitHub, Postman, REST APIs
+
+📈 What I'm Working On
+
+🌱 Building real-world full-stack projects with authentication and secure APIs
+
+🔍 Exploring cloud deployment and scalable backend systems
+
+🤝 Open to collaborations on web development projects
+
+📫 Connect With Me
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+📧 Email: yourmail@example.com
+
 <!--
 **9MayanK2/9MayanK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
