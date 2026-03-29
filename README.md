@@ -9,13 +9,16 @@
 
 ## 🔧 Tech Stack
 
-- Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- Frontend: React.js, HTML, CSS, Bootstrap, Tailwind CSS
 
 - Backend: Node.js, Express.js
 
-- Database: MongoDB, MySQL(basics)
+- Database: MySQL, MongoDB
 
 - Tools & Others: Git, GitHub, Postman, REST APIs,Redux etc
+
+- Languages: Python,Javascript,C/C++
+
 
 ## 📈 What I'm Working On
 
