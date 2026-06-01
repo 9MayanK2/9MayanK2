@@ -1,8 +1,8 @@
 <img width="1536" height="500" alt="linkedinnewBanner" src="https://github.com/user-attachments/assets/3292452c-6b3d-44e4-9afd-952630ced47a" />
 
 
-## Hi there 👋, I'm Mayank Trivedi
-# Software Engineer | DevOps Enthusiast | Cloud & Cybersecurity 
+# Hi there 👋, I'm Mayank Trivedi
+## Software Engineer | DevOps Enthusiast | Cloud & Cybersecurity 
 Computer Science graduate with a strong interest in software engineering, cloud infrastructure,
 automation, networking, and cybersecurity. I enjoy building scalable applications, automating
 operational workflows, and developing secure, reliable systems through continuous learning and
@@ -19,27 +19,27 @@ hands-on projects.
 - 📚 Continuously learning modern technologies and industry best practices
 
 
-## 🛠️ Technical Skills
-# Programming Languages
+# 🛠️ Technical Skills
+## Programming Languages
 - Python, JavaScript, C, C++
-# Frontend Development
+## Frontend Development
 - React.js, HTML5, CSS3, Bootstrap, Tailwind CSS, Redux
-# Backend Development
+## Backend Development
 - Node.js, Express.js, REST APIs, Authentication & Authorization
-# Databases
+## Databases
 - MongoDB, MySQL
-# Linux & System Administration
+## Linux & System Administration
 - Linux Administration, User & Permission Management, Process Management, Service Management, Shell Scripting, System Monitoring, Log Analysis & Troubleshooting
-# Networking
+## Networking
 - TCP/IP, OSI Model, DNS, DHCP, NAT, Routing & Switching Concepts, Packet Analysis, Network Troubleshooting
-# DevOps & Cloud
+## DevOps & Cloud
 - Docker, Kubernetes (K8s), Terraform, Ansible, AWS, Infrastructure as Code (IaC), CI/CD Fundamentals, Monitoring(Grafana, Prometheus)
-# Cybersecurity
+## Cybersecurity
 - OWASP Top 10, Web Application Security, Vulnerability Assessment & Penetration Testing (VAPT),Ethical Hacking Fundamentals, Network Security, Security Testing Methodologies, Security & Networking Tools, Wireshark, Burp Suite, Nmap, Snort, Metasploit Framework
-# Developer Tools
+## Developer Tools
 - Git, GitHub, Postman, VS Code, Linux CLI
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 - 💼 LinkedIn - (https://www.linkedin.com/in/mayank-trivedi-5b3ba2237/)
 
