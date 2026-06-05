@@ -77,12 +77,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9MayanK2&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9MayanK2&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9MayanK2&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -103,26 +103,16 @@
 
 ---
 
-## 📝 Replace These Placeholders
-
-| Placeholder | Replace With |
-|-------------|--------------|
-| `your-username` | Your GitHub username |
-| `your-linkedin-username` | Your LinkedIn profile ID |
-| `your.email@example.com` | Your email address |
-| `your-twitter-handle` | Your Twitter handle (or remove this badge) |
-| Repository `#` links | Actual project URLs |
-
----
-
 ## 🎯 Current Focus
 
 ```mermaid
 timeline
     title Learning Roadmap
-    Q4 2024 : Advanced Kubernetes
-            : Cloud Security (AWS)
-    Q1 2025 : CKA Certification
-            : eJPT Certification
-    Q2 2025 : SOC Analyst Skills
-            : Build Portfolio Projects
+    Q2 2025 : Development
+            : Certificate from Love Babbar
+    Q3 2025 : Deployment
+            : DevOps
+    Q1 2026 : Join CDAC course
+            : Learn in Depth DevSecOPs
+    Q2 2026 : Advance in DevOps
+            : Building Projects 
