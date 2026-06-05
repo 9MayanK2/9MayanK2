@@ -1,63 +1,128 @@
 <img width="1536" height="500" alt="linkedinnewBanner" src="https://github.com/user-attachments/assets/3292452c-6b3d-44e4-9afd-952630ced47a" />
 
 
-# Hi there 👋, I'm Mayank Trivedi
-## Software Engineer | DevOps Enthusiast | Cloud & Cybersecurity 
-Computer Science graduate with a strong interest in software engineering, cloud infrastructure,
-automation, networking, and cybersecurity. I enjoy building scalable applications, automating
-operational workflows, and developing secure, reliable systems through continuous learning and
-hands-on projects.
+<h1 align="center">Hi 👋, I'm Mayank Trivedi</h1>
+<h3 align="center">DevOps Engineer | Cybersecurity Enthusiast | Cloud Practitioner</h3>
 
-## 🚀 About Me
-- 🎓 Bachelor of Technology in Computer Science (2025)
-- 💻 Full-Stack Developer with experience in the MERN Stack
-- 🐧 Linux and System Administration Enthusiast
-- ☁️ Passionate about Cloud Computing and Infrastructure Automation
-- 🔒 Exploring Cybersecurity, Ethical Hacking, and Web Application Security
-- 🤖 Building automation tools using Python and Shell Scripting
-- 🌐 Strong understanding of Computer Networks, Operating Systems, and Security Fundamentals
-- 📚 Continuously learning modern technologies and industry best practices
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=2025+CS+Graduate;DevOps+%7C+Cloud+%7C+Security;Automating+Infrastructure+%26+Securing+Networks" alt="Typing SVG" />
+</p>
+
+---
+
+## 🎓 About Me
+
+- 🎓 **2025 Graduate** in Computer Science from **CSA University**
+- 🔭 Currently building **DevOps + Cybersecurity** projects
+- 🌱 Learning advanced **Kubernetes security** & **Cloud Forensics**
+- 👯 Looking to collaborate on **Open Source Security Tools**
+- 💬 Ask me about **DevOps, Cloud, Linux, Networking, Security**
+- ⚡ Fun fact: I love breaking things to understand how to secure them
+
+---
+
+## 🛠️ Technical Skills
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+![Chef](https://img.shields.io/badge/Chef-3C3C3C?style=for-the-badge&logo=chef&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔄 CI/CD & Monitoring
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🐧 Linux & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 🔐 Cybersecurity
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0C0C0C?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 💻 Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
+
+### 📋 Security Standards
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 
-# 🛠️ Technical Skills
-## Programming Languages
-- Python, JavaScript, C, C++
-## Frontend Development
-- React.js, HTML5, CSS3, Bootstrap, Tailwind CSS, Redux
-## Backend Development
-- Node.js, Express.js, REST APIs, Authentication & Authorization
-## Databases
-- MongoDB, MySQL
-## Linux & System Administration
-- Linux Administration, User & Permission Management, Process Management, Service Management, Shell Scripting, System Monitoring, Log Analysis & Troubleshooting
-## Networking
-- TCP/IP, OSI Model, DNS, DHCP, NAT, Routing & Switching Concepts, Packet Analysis, Network Troubleshooting
-## DevOps & Cloud
-- Docker, Kubernetes (K8s), Terraform, Ansible, AWS, Infrastructure as Code (IaC), CI/CD Fundamentals, Monitoring(Grafana, Prometheus)
-## Cybersecurity
-- OWASP Top 10, Web Application Security, Vulnerability Assessment & Penetration Testing (VAPT),Ethical Hacking Fundamentals, Network Security, Security Testing Methodologies, Security & Networking Tools, Wireshark, Burp Suite, Nmap, Snort, Metasploit Framework
-## Developer Tools
-- Git, GitHub, Postman, VS Code, Linux CLI
+## 🚀 Featured Projects
 
-# 📫 Connect With Me
 
-- 💼 LinkedIn - (https://www.linkedin.com/in/mayank-trivedi-5b3ba2237/)
+### 🔍 Home Lab Network Traffic Analyser
+> *Python packet sniffer using raw sockets - captures, parses, logs, and visualises network traffic*
+- **Tech**: Python, Raw Sockets, SQLite, Rich Library, Threading
+- **Features**: Live dashboard, alert engine, suspicious port detection
+- [🔗 Repository](#)[ <!-- Add your link here -->](https://github.com/9MayanK2/Network-analyser.git)
 
-- 🌐 Portfolio - (https://mayank-trivedi-portfolio.onrender.com/)
+### 🌐 HopeGivers (College Project)
+> *Full-stack application for matching who want to donate and receive blood in emergency*
+- **Tech**: MongoDB, Express.js, React, Node.js, JWT, Stripe
+- **Features**: User auth, product management, cart system
+- [🔗 Repository](#)[ <!-- Add your link here -->](https://github.com/9MayanK2/HopeGivers.git)
 
-- 📧 Email: (trivedimayank92@gmail.com)
+---
 
-<!--
-**9MayanK2/9MayanK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-trivedi-5b3ba2237/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.trivedimayank92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mayank-trivedi-portfolio.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📝 Replace These Placeholders
+
+| Placeholder | Replace With |
+|-------------|--------------|
+| `your-username` | Your GitHub username |
+| `your-linkedin-username` | Your LinkedIn profile ID |
+| `your.email@example.com` | Your email address |
+| `your-twitter-handle` | Your Twitter handle (or remove this badge) |
+| Repository `#` links | Actual project URLs |
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+timeline
+    title Learning Roadmap
+    Q4 2024 : Advanced Kubernetes
+            : Cloud Security (AWS)
+    Q1 2025 : CKA Certification
+            : eJPT Certification
+    Q2 2025 : SOC Analyst Skills
+            : Build Portfolio Projects
