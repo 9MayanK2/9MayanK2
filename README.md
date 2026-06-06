@@ -1,5 +1,5 @@
-<img width="1536" height="500" alt="linkedinnewBanner" src="https://github.com/user-attachments/assets/3292452c-6b3d-44e4-9afd-952630ced47a" />
 
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/d0c8df21-cedc-4b58-855a-6fdc8e6bebbb" />
 
 <h1 align="center">Hi 👋, I'm Mayank Trivedi</h1>
 <h3 align="center">DevOps Engineer | Cybersecurity Enthusiast | Cloud Practitioner</h3>
