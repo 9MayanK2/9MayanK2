@@ -60,17 +60,18 @@
 ## 🚀 Featured Projects
 
 
+### 🌐 SentinelAI-Ops (CDAC Project)
+> *AN Enterprise end to end DevSecOps Security Orchestarot Framework with AI remediation*
+- **Tech**: Pre-commit, Gitleaks, hadolint, Trivy, OWASP Zap, Docker, Kubernetes, Teraaform, AWS, Jenkins CI/CD, AroCD, RAG, Monitoring(Prometheus, Grafana)
+- **Features**: It is a 6 layer Architecture start from developers machine to production level security and monitoring
+- [🔗 Repository](#)[ <!-- Add your link here -->](https://github.com/9MayanK2/SentinelAI-Ops.git)
+
+  
 ### 🔍 Home Lab Network Traffic Analyser
 > *Python packet sniffer using raw sockets - captures, parses, logs, and visualises network traffic*
 - **Tech**: Python, Raw Sockets, SQLite, Rich Library, Threading
 - **Features**: Live dashboard, alert engine, suspicious port detection
 - [🔗 Repository](#)[ <!-- Add your link here -->](https://github.com/9MayanK2/Network-analyser.git)
-
-### 🌐 HopeGivers (College Project)
-> *Full-stack application for matching who want to donate and receive blood in emergency*
-- **Tech**: MongoDB, Express.js, React, Node.js, JWT, Stripe
-- **Features**: User auth, product management, cart system
-- [🔗 Repository](#)[ <!-- Add your link here -->](https://github.com/9MayanK2/HopeGivers.git)
 
 ---
 
