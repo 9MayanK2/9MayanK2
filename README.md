@@ -77,23 +77,15 @@
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Trophies -->
+<!-- Streak Stats (Active Demolab Domain) & Compact Stats -->
 <p align="center">
-  <a href="https://github.com/9MayanK2">
-    <img src="https://github-profile-trophy.vercel.app/?username=9MayanK2&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=9MayanK2&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9MayanK2&theme=radical&hide_border=true" alt="Activity Graph" width="49%" />
 </p>
 
-<!-- Stats & Streak Side-by-Side -->
+<!-- Profile Summary Metrics -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9MayanK2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9MayanK2&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<!-- Top Languages & Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9MayanK2&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9MayanK2&theme=radical&hide_border=true" alt="Contribution Graph" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=9MayanK2&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
