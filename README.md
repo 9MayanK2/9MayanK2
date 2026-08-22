@@ -75,21 +75,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<!-- Streak Stats (Active Demolab Domain) & Compact Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=9MayanK2&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9MayanK2&theme=radical&hide_border=true" alt="Activity Graph" width="49%" />
-</p>
-
-<!-- Profile Summary Metrics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=9MayanK2&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
